@@ -45,6 +45,14 @@ src: url('assets/font/walkway/Walkway_Bold.ttf');
 .display-logosm > .mbr-iconfont {
   font-size: 1.5rem;
 }
+.display-lg {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.1;
+}
+.display-lg > .mbr-iconfont {
+  font-size: 3.75rem;
+}
 .display-7 {
   font-family: 'Walkway', sans-serif;
   font-size: 1.2rem;

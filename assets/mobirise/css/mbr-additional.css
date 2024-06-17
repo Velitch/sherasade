@@ -42,8 +42,7 @@ src: url('assets/font/walkway/Walkway_Bold.ttf');
   font-size: 1.2rem;
   line-height: 1.5;
 }
-.display-7 > .mbr-iconfont   font-family: 'Walkway', sans-serif;
-  src: url('assets/font/walkway/Walkway_Bold.ttf');
+.display-7 > .mbr-iconfont {
   font-size: 1.5rem;
 }
 /* ---- Fluid typography for mobile devices ---- */

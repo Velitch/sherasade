@@ -624,8 +624,8 @@ blockquote {
 .jq-number__spin.minus:after,
 .jq-number__spin.plus:after {
   transition: 0.4s;
-  border-top-color: #353535;
-  border-bottom-color: #353535;
+  border-top-color: #1E1F22;
+  border-bottom-color: #1E1F22;
 }
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
@@ -682,7 +682,7 @@ a {
 .cid-ufLrVt6kq3 {
   padding-top: 6rem;
   padding-bottom: 7rem;
-  background-color: #353535;
+  background-color: #1E1F22;
 }
 .cid-ufLrVt6kq3 .row {
   flex-direction: row-reverse;
@@ -1078,7 +1078,7 @@ a {
   }
 }
 .cid-ufGN1lq67T {
-  background-color: #353535;
+  background-color: #1E1F22;
 }
 @media (max-width: 991px) {
   .cid-ufGN1lq67T .image-wrapper {

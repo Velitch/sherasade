@@ -1,21 +1,5 @@
 body {
-  font-family: Montserrat;
-}
-.display-logosmall {
-  font-family: 'Walkway', sans-serif;
-  font-size: 1.2rem;
-  line-height: 1.5;
-}
-.display-logosmall > .mbr-iconfont {
-  font-size: 1.5rem;
-}
-.display-logobig {
-  font-family: 'Walkway', sans-serif;
-  font-size: 3rem;
-  line-height: 1.1;
-}
-.display-logobif > .mbr-iconfont {
-  font-size: 3.75rem;
+  font-family: Jost;
 }
 .display-1 {
   font-family: 'Montserrat', sans-serif;
@@ -598,11 +582,8 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
-}
 .form-control {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -616,7 +597,7 @@ a:hover {
   border-color: #6592e6 !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
